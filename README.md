@@ -1,4 +1,19 @@
-### Hi there 👋
+
+# Francisco Castilleja - Repositorio Personal
+
+Soy estudiante de la **UAT** en la carrera de **Ingeniería en Sistemas Computacionales**.
+
+> ## Habilidades Blandas:
+> - Creatividad
+
+> ## Habilidades Duras:
+> - Python
+> - HTML
+> - CSS
+> - JS
+> - Git
+> - Programación Ladder (PLC)
+> - C#
 
 <!--
 **FranciscoCastilleja/FranciscoCastilleja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
