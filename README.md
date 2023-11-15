@@ -5,6 +5,7 @@ Soy estudiante de la **UAT** en la carrera de **Ingeniería en Sistemas Computac
 
 > ## Habilidades Blandas:
 > - Creatividad
+> - Aprendizaje Continuo
 
 > ## Habilidades Duras:
 > - Python
@@ -14,6 +15,8 @@ Soy estudiante de la **UAT** en la carrera de **Ingeniería en Sistemas Computac
 > - Git
 > - Programación Ladder (PLC)
 > - C#
+> - Inteligencia Artificial
+> - SQL
 
 <!--
 **FranciscoCastilleja/FranciscoCastilleja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
