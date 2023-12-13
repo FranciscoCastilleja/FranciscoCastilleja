@@ -6,6 +6,7 @@ Soy estudiante de la **UAT** en la carrera de **Ingeniería en Sistemas Computac
 > ## Habilidades Blandas:
 > - Creatividad
 > - Aprendizaje Continuo
+> - Trabajo en Equipo
 
 > ## Habilidades Duras:
 > - Python
@@ -15,7 +16,7 @@ Soy estudiante de la **UAT** en la carrera de **Ingeniería en Sistemas Computac
 > - Git
 > - Programación Ladder (PLC)
 > - C#
-> - Inteligencia Artificial
+> - Inteligencia Artificial (Deep Learning - CNN)
 > - SQL
 
 <!--
