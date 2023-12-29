@@ -7,7 +7,7 @@
 
 - 🌐 Sitio web: [Tu Sitio Web]()
 - 📧 Correo electrónico: []
-- 💼 LinkedIn: [Tu LinkedIn](www.linkedin.com/in/francisco-castilleja)
+- 💼 LinkedIn: [Tu LinkedIn](https://www.linkedin.com/in/francisco-castilleja)
 
 > ## Habilidades Blandas:
 > - Creatividad
