@@ -1,7 +1,13 @@
 
-# Francisco Castilleja - Repositorio Personal
+# Hola 👋, Soy Francisco Castilleja - Repositorio Personal
 
-Soy estudiante de la **UAT** en la carrera de **Ingeniería en Sistemas Computacionales**.
+¡Bienvenido a mi perfil de GitHub! Soy un estudiante de la **UAT** en la carrera de **Ingeniería en Sistemas Computacionales**. 
+
+## Sobre mí
+
+- 🌐 Sitio web: [Tu Sitio Web]()
+- 📧 Correo electrónico: []
+- 💼 LinkedIn: [Tu LinkedIn](www.linkedin.com/in/francisco-castilleja)
 
 > ## Habilidades Blandas:
 > - Creatividad
