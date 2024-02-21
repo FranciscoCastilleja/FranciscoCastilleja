@@ -7,7 +7,7 @@
 
 - 🌐 Sitio web: [Portafolio Web]()
 - 📧 Correo electrónico: [Envíame un correo electrónico](mailto:Francisco_Castilleja.com)
-- 💼 LinkedIn: [Perfíl](https://www.linkedin.com/in/francisco-castilleja)
+- 💼 LinkedIn: [Perfil](https://www.linkedin.com/in/francisco-castilleja)
 
 <!--
 **FranciscoCastilleja/FranciscoCastilleja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
