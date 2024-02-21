@@ -6,24 +6,8 @@
 ## Sobre mí
 
 - 🌐 Sitio web: [Tu Sitio Web]()
-- 📧 Correo electrónico: []
+- 📧 Correo electrónico: [Envíame un correo electrónico](mailto:francisco_castilleja.com)
 - 💼 LinkedIn: [Tu LinkedIn](https://www.linkedin.com/in/francisco-castilleja)
-
-> ## Habilidades Blandas:
-> - Creatividad
-> - Aprendizaje Continuo
-> - Trabajo en Equipo
-
-> ## Habilidades Duras:
-> - Python
-> - HTML
-> - CSS
-> - JS
-> - Git
-> - Programación Ladder (PLC)
-> - C#
-> - Inteligencia Artificial (Deep Learning - CNN)
-> - SQL
 
 <!--
 **FranciscoCastilleja/FranciscoCastilleja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
