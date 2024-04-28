@@ -1,7 +1,7 @@
 
 # Hola 👋, Soy Francisco Castilleja - Repositorio Personal
 
-¡Bienvenido a mi perfil de GitHub! Graduado de la **UAT** en la carrera de **Ingeniería en Sistemas Computacionales**. 
+¡Bienvenido a mi perfil de GitHub! Pasante de la **UAT** en la carrera de **Ingeniería en Sistemas Computacionales**. 
 
 ## Sobre mí
 
